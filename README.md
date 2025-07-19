@@ -2,7 +2,7 @@
 
 🎯 **Senior Business Analyst | Digital Transformation Strategist | Agile Product Delivery Lead**
 
-🔹 20+ years in IT | 15+ years in Business Analysis & Process Optimization  
+🔹 21+ years in IT | 15+ years in Business Analysis & Process Optimization  
 🔹 Trusted by Fortune 100 clients (Nationwide, AT&T, AAA) and high-growth startups  
 🔹 Proven success in CRM/PAS transformations, Agile product delivery & AI/ML-driven process mining  
 
