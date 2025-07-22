@@ -20,15 +20,15 @@ I bridge business needs with technology by driving enterprise-wide digital trans
 
 ---
 
-## 📂 Featured Projects
+## 📁 Featured Projects
 
 | Project | Highlights |
 |--------|------------|
-| [Nationwide CRM Modernization](https://github.com/praveenparimi1/nationwide-crm-modernization) | Migrated 7+ systems, reduced cycle time by 40%, improved data accuracy. |
-| [AAA PAS Transformation](https://github.com/praveenparimi1/aaa-pas-transformation) | Scaled to $10B+ transactions, cut costs by 7%, improved UX. |
-| [Berry Ads Agile Delivery](https://github.com/praveenparimi1/berry-ads-agile-delivery) | Built Agile team from scratch, improved delivery speed by 30%. |
-| [AT&T Mobile App Analytics](https://github.com/praveenparimi1/att-mobile-app-analytics) | Reduced outages by 20% with predictive analytics. |
-| [AI/ML Process Mining POC](https://github.com/praveenparimi1/ai-ml-process-mining-poc) | Improved operational visibility with Blueworks Live & Camunda. |
+| [Berry Ads – Agile Delivery](https://github.com/praveenparimi1/berry-ads-agile-delivery) | Built Agile team from scratch, introduced Scrum, improved delivery velocity by 30%. |
+| [Nationwide CRM Modernization](https://github.com/praveenparimi1/nationwide-crm-modernization) | Migrated 7+ systems, improved data accuracy, reduced cycle time by 40%. |
+| [AI/ML Process Mining POC](https://github.com/praveenparimi1/ai-process-mining-poc) | Mapped process inefficiencies using Blueworks Live and Camunda. |
+| [AT&T Mobile App Analytics](https://github.com/praveenparimi1/att-mobile-app) | Delivered predictive analytics for outage reduction; enabled 24/7 monitoring. |
+| [AAA Policy Administration System](https://github.com/praveenparimi1/aaa-policy-system) | Enhanced scalability for $10B+ transactions, improved UX and claims cycle. |
 
 
 ---
