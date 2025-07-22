@@ -24,11 +24,11 @@ I bridge business needs with technology by driving enterprise-wide digital trans
 
 | Project | Highlights |
 |--------|------------|
-| [Nationwide CRM Modernization](.https://github.com/praveenparimi1/nationwide-crm-modernization) | Migrated 7+ systems, reduced cycle time by 40%, improved data accuracy. |
-| [AAA PAS Transformation](./aaa-policy-system) | Scaled to $10B+ transactions, cut costs by 7%, improved UX. |
-| [Berry Ads Agile Delivery](./berryads-agile) | Built Agile team from scratch, improved speed by 30%. |
-| [AT&T Mobile App Analytics](./att-mobile-app) | Reduced outages 20% with predictive models. |
-| [AI/ML Process Mining POC](./ai-process-mining-poc) | Reduced operational delays, improved accuracy via Blueworks Live. |
+| [Nationwide CRM Modernization] | Migrated 7+ systems, reduced cycle time by 40%, improved data accuracy. |
+| [AAA PAS Transformation] | Scaled to $10B+ transactions, cut costs by 7%, improved UX. |
+| [Berry Ads Agile Delivery]| Built Agile team from scratch, improved speed by 30%. |
+| [AT&T Mobile App Analytics] | Reduced outages 20% with predictive models. |
+| [AI/ML Process Mining POC] | Reduced operational delays, improved accuracy via Blueworks Live. |
 
 ---
 
