@@ -42,6 +42,7 @@ I bridge business needs with technology by driving enterprise-wide digital trans
 - **Methodologies:** SDLC, Agile, UML, Data Modeling, JAD/JRP/JAR Facilitation
 
 
+
 📫 **Email**: [praveenba3@gmail.com](mailto:praveenba3@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/praveenparimi](https://www.linkedin.com/in/praveenparimi)
 <!--
