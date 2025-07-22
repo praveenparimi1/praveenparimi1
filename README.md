@@ -32,10 +32,15 @@ I bridge business needs with technology by driving enterprise-wide digital trans
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🧠 Core Skills, Tools & Technologies
 
-`JIRA` • `Blueworks Live` • `Adobe XD` • `MS Visio` • `Salesforce` • `Confluence`  
-`iGrafx` • `BPMN` • `UML` • `FRD/BRD/NFR` • `Agile/Scrum` • `Data Modeling`
+- **Business Analysis:** Requirements Gathering, Process Mapping, Gap Analysis, Business Architecture  
+- **Project Management:** Agile, Waterfall, Scrum, Risk Management, Budgeting & Planning  
+- **Leadership:** Team Management, Stakeholder Engagement, CXO Relationship Management  
+- **Technical:** JIRA, Confluence, Blueworks Live, MS Office Suite, Salesforce, SAP CRM, IBM BPM/MDM, Adobe XD, Tableau  
+- **Documentation:** BRD, SRS, FRD, NFR, UCD, Use Cases, User Stories  
+- **Methodologies:** SDLC, Agile, UML, Data Modeling, JAD/JRP/JAR Facilitation
+
 
 📫 **Email**: [praveenba3@gmail.com](mailto:praveenba3@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/praveenparimi](https://www.linkedin.com/in/praveenparimi)
