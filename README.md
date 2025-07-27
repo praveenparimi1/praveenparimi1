@@ -37,7 +37,7 @@ I bridge business needs with technology by driving enterprise-wide digital trans
 
 - **Business Analysis:** Requirements Gathering, Process Mapping, Gap Analysis, Business Architecture  
 - **Project Management:** Agile, Waterfall, Scrum, Risk Management, Budgeting & Planning  
-- **Leadership:** Team Management, Stakeholder Engagement, CXO Relationship Management  
+- **Leadership:** Stakeholder Engagement, Team Management, CXO Relationship Management  
 - **Technical:** JIRA, Confluence, Blueworks Live, MS Office Suite, Salesforce, SAP CRM, IBM BPM/MDM, Adobe XD, Tableau  
 - **Documentation:** BRD, SRS, FRD, NFR, UCD, Use Cases, User Stories  
 - **Methodologies:** SDLC, Agile, UML, Data Modeling, JAD/JRP/JAR Facilitation
