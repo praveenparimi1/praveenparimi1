@@ -22,15 +22,15 @@ I bridge business needs with technology by driving enterprise-wide digital trans
 
 ## 📂 Featured Projects
 
-- **[Nationwide CRM Modernization](./nationwide-crm-modernization)**  
+- **[Nationwide CRM Modernization](https://github.com/praveenparimi1/nationwide-crm-modernization)**  
   Migrated 7 systems into IBM BPM/MDM; reduced cycle-time by 40%.  
-- **[AI/ML Process Mining POC](./ai-process-mining-poc)**  
+- **[AI/ML Process Mining POC](https://github.com/praveenparimi1/ai-process-mining-poc)**  
   First IBM BPM+MDM integration POC; enabled 15% cycle-time reduction.  
-- **[AT&T Mobile App Analytics](./att-mobile-app)**  
+- **[AT&T Mobile App Analytics](https://github.com/praveenparimi1/att-mobile-app)**  
   Predictive outage models; reduced downtime by 20%.  
-- **[AAA Policy Administration System](./aaa-policy-system)**  
+- **[AAA Policy Administration System](https://github.com/praveenparimi1/aaa-policy-system)**  
   Scaled to $10B transactions; delivered 7% cost savings.  
-- **[Berry Ads – Agile Delivery](./berryads-agile)**  
+- **[Berry Ads – Agile Delivery](https://github.com/praveenparimi1/berry-ads-agile-delivery)**  
   Built Agile teams from scratch; improved sprint velocity by 30%.  
 
 ---
