@@ -20,26 +20,27 @@ I bridge business needs with technology by driving enterprise-wide digital trans
 
 ---
 
-## 📁 Featured Projects
+## 📂 Featured Projects
 
-| Project | Highlights |
-|--------|------------|
-| [Nationwide CRM Modernization](https://github.com/praveenparimi1/nationwide-crm-modernization) | Migrated 7+ systems, improved data accuracy, reduced cycle time by 40%. |
-| [AI/ML Process Mining POC](https://github.com/praveenparimi1/ai-process-mining-poc) | Mapped process inefficiencies using Blueworks Live and Camunda. |
-| [AT&T Mobile App Analytics](https://github.com/praveenparimi1/att-mobile-app) | Delivered predictive analytics for outage reduction; enabled 24/7 monitoring. |
-| [AAA Policy Administration System](https://github.com/praveenparimi1/aaa-policy-system) | Enhanced scalability for $10B+ transactions, improved UX and claims cycle. |
-| [Berry Ads – Agile Delivery](https://github.com/praveenparimi1/berry-ads-agile-delivery) | Built Agile team from scratch, introduced Scrum, improved delivery velocity by 30%. |
+- **[Nationwide CRM Modernization](./nationwide-crm-modernization)**  
+  Migrated 7 systems into IBM BPM/MDM; reduced cycle-time by 40%.  
+- **[AI/ML Process Mining POC](./ai-process-mining-poc)**  
+  First IBM BPM+MDM integration POC; enabled 15% cycle-time reduction.  
+- **[AT&T Mobile App Analytics](./att-mobile-app)**  
+  Predictive outage models; reduced downtime by 20%.  
+- **[AAA Policy Administration System](./aaa-policy-system)**  
+  Scaled to $10B transactions; delivered 7% cost savings.  
+- **[Berry Ads – Agile Delivery](./berryads-agile)**  
+  Built Agile teams from scratch; improved sprint velocity by 30%.  
 
 ---
 
-## 🧠 Core Skills, Tools & Technologies
+### 🛠 Tools & Technologies
+- **Analysis & Design:** BPMN, UML, Blueworks Live, MS Visio  
+- **Agile & PM:** Scrum/Kanban, JIRA, Confluence, MS Project  
+- **Dev & Data:** IBM BPM/MDM, Salesforce, Tableau, Python  
+- **Documentation:** BRD, FRD, UCD, User Stories, RFP/RFI  
 
-- **Business Analysis:** Requirements Gathering, Process Mapping, Gap Analysis, Business Architecture  
-- **Project Management:** Agile, Waterfall, Scrum, Risk Management, Budgeting & Planning  
-- **Leadership:** Stakeholder Engagement, Team Management, CXO Relationship Management  
-- **Technical:** JIRA, Confluence, Blueworks Live, MS Office Suite, Salesforce, SAP CRM, IBM BPM/MDM, Adobe XD, Tableau  
-- **Documentation:** BRD, SRS, FRD, NFR, UCD, Use Cases, User Stories  
-- **Methodologies:** SDLC, Agile, UML, Data Modeling, JAD/JRP/JAR Facilitation
 
 
 
