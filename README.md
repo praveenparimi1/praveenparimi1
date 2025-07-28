@@ -43,9 +43,9 @@ I bridge business needs with technology by driving enterprise-wide digital trans
 
 
 
-
-📫 **Email**: [praveenba3@gmail.com](mailto:praveenba3@gmail.com)  
-🔗 **LinkedIn**: [linkedin.com/in/praveenparimi](https://www.linkedin.com/in/praveenparimi)
+## 📫 Let’s Connect
+✉️ **Email**: praveenba3@gmail.com  
+🔗 **LinkedIn**: (https://linkedin.com/in/praveenparimi)
 <!--
 **praveenparimi1/praveenparimi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
