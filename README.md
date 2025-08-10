@@ -13,10 +13,15 @@
 I bridge business needs with technology by driving enterprise-wide digital transformations, streamlining operations, and enhancing customer experience through structured analysis and Agile leadership.
 
 ### 🚀 Core Competencies
-- Business Process Mapping (As-Is/To-Be using BPMN/UML)
-- Agile Transformation & Stakeholder Management
-- AI/ML Proofs-of-Concept & Predictive Analytics
-- Full SDLC documentation: BRD, FRD, UCD, User Stories, RFP/RFI
+
+- **Business Analysis & Documentation** – Requirements Gathering, BPMN/UML, Gap Analysis, BRDs/FRDs, User Stories  
+- **Process Optimization** – Workflow Re-engineering, Process-Mining (Blueworks Live), Predictive Analytics  
+- **PMO Governance & Portfolio Management** – PMO framework setup, portfolio tracking, strategic alignment  
+- **Vendor Governance & RFPs** – RFQ/RFP Management, Technology Solution Evaluation, Vendor Performance Oversight  
+- **Budget Oversight** – Portfolio budget tracking, cost optimization, resource and capacity planning  
+- **Tools & Platforms** – Blueworks Live, Salesforce, iGrafx, Adobe XD, Liferay, Tableau, JIRA, Confluence, MS Project, MS Visio, IBM BPM/MDM, SAP CRM  
+- **Delivery Models** – Agile (Scrum/Kanban), Hybrid, Waterfall; Risk Management, Stakeholder Engagement  
+- **Collaboration** – Slack, Zoom, Microsoft Teams, Miro; cross-time-zone leadership  
 
 ---
 
