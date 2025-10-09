@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Praveen Parimi
 
-🎯 **Senior Business Analyst | Digital Transformation Strategist | Agile Product Delivery Lead**
+🎯 **Principal Business Analyst | Business Process Optimization | Enterprise Transformation**
 
 🔹 21+ years in IT | 15+ years in Business Analysis & Process Optimization  
 🔹 Trusted by Fortune 100 clients (Nationwide, AT&T, AAA) and high-growth startups  
@@ -14,13 +14,13 @@ I bridge business needs with technology by driving enterprise-wide digital trans
 
 ### 🚀 Core Competencies
 
-- **Business Analysis & Documentation** – Requirements Gathering, BPMN/UML, Gap Analysis, BRDs/FRDs, User Stories  
-- **Process Optimization** – Workflow Re-engineering, Process-Mining (Blueworks Live), Predictive Analytics  
+- **Business Analysis & Documentation** – Requirements Gathering, BPMN/UML, Gap Analysis, BRDs/FRDs, NFRs, User Stories, Smart Contract & Blockchain Use-Case Definition.  
+- **Process Optimization** – Workflow Re-engineering, Process-Mining (Blueworks Live), Predictive Analytics, Decentralized Process Mapping (Web 3.0).  
 - **PMO Governance & Portfolio Management** – PMO framework setup, portfolio tracking, strategic alignment  
-- **Vendor Governance & RFPs** – RFQ/RFP Management, Technology Solution Evaluation, Vendor Performance Oversight  
+- **Vendor Governance & RFPs** – RFQ/RFP Management, Technology Solution Evaluation, Vendor Performance Oversight, Blockchain Solution Assessment.
 - **Budget Oversight** – Portfolio budget tracking, cost optimization, resource and capacity planning  
-- **Tools & Platforms** – Blueworks Live, Salesforce, iGrafx, Adobe XD, Liferay, Tableau, JIRA, Confluence, MS Project, MS Visio, IBM BPM/MDM, SAP CRM  
-- **Delivery Models** – Agile (Scrum/Kanban), Hybrid, Waterfall; Risk Management, Stakeholder Engagement  
+- **Tools & Platforms** – MS Visio, Blueworks Live, Salesforce, iGrafx, Adobe XD, Liferay, Tableau, Qlik, JIRA, Confluence, MS Project, Lucidchart, ArchiMate, IBM BPM/MDM, SAP CRM, Ethereum (Basic).  
+- **Delivery Models** – Agile (Scrum/Kanban), Hybrid, Waterfall; Risk Management, Stakeholder Engagement, Decentralized Product Lifecycle Planning. 
 - **Collaboration** – Slack, Zoom, Microsoft Teams, Miro; cross-time-zone leadership  
 
 ---
@@ -41,10 +41,12 @@ I bridge business needs with technology by driving enterprise-wide digital trans
 ---
 
 ### 🛠 Tools & Technologies
-- **Analysis & Design:** BPMN, UML, Blueworks Live, MS Visio  
-- **Agile & PM:** Scrum/Kanban, JIRA, Confluence, MS Project  
-- **Dev & Data:** IBM BPM/MDM, Salesforce, Tableau, Python  
-- **Documentation:** BRD, FRD, UCD, User Stories, RFP/RFI  
+
+- **Analysis & Design:** BPMN, UML, Blueworks Live, MS Visio, iGrafx, Lucidchart, ArchiMate, Adobe XD, Liferay, Salesforce, Ethereum (Basic)
+- **Agile & Project Management:** Scrum/Kanban, JIRA, Confluence, MS Project
+- **Dev & Data / BI:** IBM BPM/MDM, SAP CRM, Tableau, Qlik, Python
+- **Documentation & Requirements:** BRD, FRD, UCD, User Stories, RFP/RFI
+ 
 
 
 
@@ -54,14 +56,13 @@ I bridge business needs with technology by driving enterprise-wide digital trans
 <!--
 **praveenparimi1/praveenparimi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi! I’m Praveen Parimi, a Principal Business Analyst with 21+ years of experience in Business Analysis, Process Optimization, and Enterprise Transformation across Insurance, Finance, and Telecommunications.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on improving business process workflows and exploring AI/ML-driven process-mining projects. I’m also experimenting with decentralized solutions and Web3 concepts.  
+- 🌱 I’m currently learning more about Blockchain for business applications, advanced analytics, and smart contract design.  
+- 👯 I’m looking to collaborate on open-source projects related to process automation, analytics, and enterprise workflow optimization.  
+- 🤔 I’m looking for help with keeping up-to-date on emerging tools for business analysis, automation, and predictive analytics.  
+- 💬 Ask me about business analysis, process optimization, Agile delivery, insurance domain projects, and digital transformation strategies.  
+- 📫 How to reach me: praveenba3@gmail.com | LinkedIn: [linkedin.com/in/praveenparimi](https://www.linkedin.com/in/praveenparimi)  
+- ⚡ Fun fact: I’m passionate about exploring new tech trends like NFTs, Web3, and decentralized business models, alongside mentoring junior analysts and UX designers.
+
