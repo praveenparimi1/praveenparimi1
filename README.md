@@ -40,14 +40,22 @@ I bridge business needs with technology by driving enterprise-wide digital trans
 
 ---
 
+### 🚀 Past Experience Highlights  
+
+- **Sr. Business Analyst | Cekriya Solutions LLC (2010–2011)** – Led process improvement, stakeholder engagement, and portfolio management.  
+- **System Analyst | AKT (2009–2010)** – Managed automation solutions and system design under MVC architecture.  
+- **Senior Java Developer | AKT (2007–2009)** – Built financial systems, handled data warehousing, and led web-tier development.  
+- **Java Developer | Creative Visions (2004–2007)** – Managed end-to-end web project design and development.  
+- **Intern | Pentasoft Technologies (2003–2004)** – Contributed to web design, QA, and client support.  
+
+---
+
 ### 🛠 Tools & Technologies
 
 - **Analysis & Design:** BPMN, UML, Blueworks Live, MS Visio, iGrafx, Lucidchart, ArchiMate, Adobe XD, Liferay, Salesforce, Ethereum (Basic)
 - **Agile & Project Management:** Scrum/Kanban, JIRA, Confluence, MS Project
 - **Dev & Data / BI:** IBM BPM/MDM, SAP CRM, Tableau, Qlik, Python
 - **Documentation & Requirements:** BRD, FRD, UCD, User Stories, RFP/RFI
- 
-
 
 
 ## 📫 Let’s Connect
